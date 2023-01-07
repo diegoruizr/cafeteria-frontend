@@ -4,13 +4,13 @@
        :data-active-color="activeColor">
     <div class="logo">
       <a class="simple-text logo-mini"
-         href="/">
+         href="/cafeteria-backend/Backend/public">
           <div class="logo-img">
               <img :src="logo" alt="">
           </div>
       </a>
       <a class="simple-text logo-normal"
-         href="/">
+         href="/cafeteria-backend/Backend/public">
           {{ title }}
       </a>
     </div>
